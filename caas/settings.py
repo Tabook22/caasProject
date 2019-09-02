@@ -25,7 +25,7 @@ SECRET_KEY = '&^w^aly7np=+@mr=ixfv53vw0*nqp-pec+yel=jr2v#^zupk54'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1','https://caasproject.herokuapp.com']
+ALLOWED_HOSTS = ['*']
 
 
 # Application definition
