@@ -127,7 +127,7 @@ USE_TZ = True
 STATIC_URL = '/static/' #The static url is the url path where a client or browser can access static files. 
 # location where you will store your static files
 STATICFILES_DIRS = [
-    os.path.join(BASE_DIR,’caas/static') #This determines the locations where other static files are being pulled from. For 
+    os.path.join(BASE_DIR,'caas/static') #This determines the locations where other static files are being pulled from. For 
     #os.path.join(BASE_DIR, 'otherapp/otherfiles/')
 ]
 
